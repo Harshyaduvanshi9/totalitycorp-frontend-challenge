@@ -6,6 +6,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Tech Stack:
+Frontend Framework: React
+Routing: React Router
+Styling: CSS Modules or Styled Components
+API Integration: use a mock API or backend for product data and checkout simulation.
+Responsive Design: CSS Flexbox or Grid for layout, and media queries for responsiveness.
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
